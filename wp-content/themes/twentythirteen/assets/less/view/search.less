@@ -1,0 +1,136 @@
+/**
+* Created by Shuyi Huang on 2015/04/23.
+*/
+
+@white: #ffffff;
+@grey: #646464;
+
+#search,#newslist{
+	.banner {
+        width: 100%;
+        background: @white;
+		color: @grey;
+		font-weight: 700;
+		padding-top: 0;
+		min-height: 0;
+		.border-bottom { 
+			margin-top: 60px;
+			//border-bottom: 1px solid rgba(187, 186, 186, 0.79); 
+		}
+		span { color: rgba(187, 186, 186, 0.79); }	
+		#search-tab {
+			a {
+				color: black;
+				padding-top: 1px;
+				padding-bottom: 1px;
+				padding-left: 10px;
+				padding-right: 10px;
+			}
+			a:hover {
+				color: @white;
+				background-color: #428bca;
+			}
+			.li-active {
+				color: @white;
+				background-color: #428bca;
+			}
+		}
+		.col-md-7 { margin-top: 25px; }
+		.inline-title {	
+			display: inline-block;
+		}
+	}
+
+	.content {
+		.container {
+		  	position: relative;
+			margin-top: 25px;
+			#search-content {
+				margin-top: 19px;
+			}
+			
+			.wp-pagenavi {
+  				position: relative!important;
+  				margin-top: 20px;
+  				margin-bottom: 15px;
+  				bottom: 0;
+			}
+			.result {
+	    		margin-bottom: 10px;
+	    		font-size: 16px;
+	    		p{
+	    			text-align:justify;
+		    		a { 
+				  		color: #333;
+				  		cursor: pointer; 
+					}
+					a:hover {
+						color:#2b5582;
+						text-decoration: none;
+					}
+				}
+				b, strong {
+					font-weight: 100;
+					color: rgb(255, 173, 0);
+				}
+	    		span {
+					font-size: 16px;
+					color: #aaa;
+	    		}
+			}	
+		}
+	}
+
+
+	@media screen and (max-width: 991px) {
+		.navbar-right {
+			float: left!important;
+			margin-right: -15px;
+			margin-top: -15px;
+			margin-bottom: 7px;
+		}
+		.col-sm-7 {
+			padding-top: 15px;
+			padding-left: 150px;
+		}
+	}
+	@media screen and (max-width: 768px) { 
+		.banner {
+			.border-bottom { 
+				margin-top: 0; 
+				.col-sm-7 {
+					padding-top: 0;
+					padding-left: 15px;
+				}
+				#search-tab {
+					padding-left: 15px;
+					margin-top: -15px;
+					li { display: inline-block; }
+				}
+			}
+		}	
+	}
+}
+
+#newslist {
+	#smallnav{
+  		margin-top: 15px;
+  		padding-left: 15px;
+		li {
+  			display: inline-block;
+  			font-size: 14px;
+  			letter-spacing: 0.05em;
+  			text-transform: uppercase;
+  			a {
+  				color: #ABA5A5;
+  			}
+  			a:hover {
+  				color: #428bca;
+  			}
+  			.fa {
+  				color: #ccc;
+  				font-size: 12px;
+			}
+		}		
+	}	
+}

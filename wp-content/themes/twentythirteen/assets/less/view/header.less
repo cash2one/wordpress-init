@@ -1,0 +1,129 @@
+/**
+* Created by Shuyi Huang on 2015/05/05.
+*/
+
+@media screen and (min-width: 1050px){
+	#header{
+		.tel-position { margin-left: 15px; }
+		.english li a{
+			padding-right:15px;
+			padding-left:15px;
+		}
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1050px){
+	#header {
+		.tel-position { margin-left: 15px; }
+		.ul-position { 
+			position: relative;
+		}
+		#div-search {
+			display: none;
+		}
+		#navbar {
+			position: relative;
+			margin-top: 0;
+			li {
+				a{		
+  					padding: 40px 13px 15px;
+  				}	
+  				#searchform {
+  					padding-bottom: 10px;
+  					position: relative;
+				}
+			}
+		} 	
+	}
+}		
+  
+@media screen and (max-width: 768px) {	
+	#header{	
+		.header-top {
+			.navbar-nav  { margin: 0 0; }
+			.ul-position { 
+				padding-right: 0;
+				.dropdown-menu {
+  					position: absolute;
+ 					background-color: white; 
+  					box-shadow: rgba(0, 0, 0, 0.172549) 0px 6px 12px 0;
+  					min-width: 100px;
+				} 
+			}
+			a {
+  				padding-bottom: 1px;
+  				font-size: 12px;
+  				.glyphicon 	 {  display: inline; }	
+			}
+		}
+
+		.navbar-brand { height: 76px; width: 110px;}
+		
+		#custom-navbar {
+			li {
+				a { color: #777!important; }
+				#searchform {
+  					color: #777;
+  					padding-top: 0;
+  					margin-top: 10px;
+  					margin-bottom: 20px;
+  					margin-left: 15px;
+  					.search {
+  						border-bottom: 1px solid #777;
+					}
+				}	
+			}
+		}
+		.caret {
+  			margin-left: 0; 
+		}
+	}
+}
+#header {
+	#lan {
+        min-width: inherit;
+    } 
+    #change-lan {
+    	float: right;
+    }
+	.posabs{
+	position:absolute;
+	width: 100%;
+	}
+	.list-group {
+		div{
+			width:80px;
+			height:80px;
+			float:left;
+			margin-right:20px;
+			img{
+				height:80px;
+				width:80px;
+			}	
+		}
+		.title-li{
+			font-weight:bold;
+		}
+		.content-li{
+			color:#999;
+		}
+		li {
+		list-style-type:none;
+		}
+		a{
+		color:#555;
+		}
+	}
+	.backgrund-head{
+	background:rgba(255,255,255,0.95);
+	}
+
+	#searchform {
+		.search {  margin-right: -15px; }
+		i { margin-left: 0px; } 
+		button {
+        	padding-right: 0;
+        	padding-left: 0;
+    	} 
+	}
+}

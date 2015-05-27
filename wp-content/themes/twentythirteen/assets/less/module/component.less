@@ -1,0 +1,74 @@
+/* BANNER CSS */
+@banner-height: 322px;
+@banner-color: #233A59;
+@banner-font-color: #fff;
+
+@tab-height: 41px;
+@tab-color: #428bca;
+
+.banner {
+    min-height: @banner-height;
+    background: @banner-color 50% 0px no-repeat;
+    color: @banner-font-color;
+    padding-top: 40px;
+    position: relative;
+    h1 {
+      font-weight: bold; 
+    }
+    p {
+      line-height:2;
+    }
+}
+.tab-panel {
+    width:100%;
+    position: absolute; 
+    bottom: 0;
+    text-align: center;
+        
+    ul {
+      position: relative;
+      text-align:center;
+      display: inline-block;
+      a {
+        color: @banner-font-color !important;
+        border-radius: 0 !important;
+        border: 1px solid @tab-color;
+        cursor: pointer;
+      }
+      a:hover {
+        background: @tab-color !important;
+      }
+    }  
+    
+    li {
+      margin-right: 5px;
+      float: none;
+      display:inline-block;
+    }    
+}
+
+/* 分页部分 */
+.wp-pagenavi {
+  position: absolute;
+  bottom: 20px;
+}
+.wp-pagenavi a , .wp-pagenavi span {
+  margin-right: 10px !important;
+  padding: 3px 8px 3px 8px;
+  border: 1px solid @tab-color;
+}
+
+.wp-pagenavi a:hover, .wp-pagenavi span {
+  color: #fff;
+  background: @tab-color;
+  text-decoration: none;
+}
+
+.wp-pagenavi span.extend {
+  border: 0;
+  background: none;
+  color: @tab-color;
+}
+
+
+

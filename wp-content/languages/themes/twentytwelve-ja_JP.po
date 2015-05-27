@@ -1,0 +1,195 @@
+# Copyright (C) 2013 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Twelve 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/twentytwelve\n"
+"POT-Creation-Date: 2013-08-01 18:14:14+00:00\n"
+"PO-Revision-Date: 2013-10-23 15:53-0000\n"
+"Last-Translator: Jimmy Xu <me@jimmyxu.org>\n"
+"Language-Team: WordPress China\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.7\n"
+
+
+
+#: header-nav.php 32
+msgid "Home"
+msgstr "ホーム"
+
+#: header-nav.php 33
+msgid "About"
+msgstr "立群について"
+
+#: header-nav.php 34
+msgid "Sevice"
+msgstr "業務内容"
+
+#: header-nav.php 35
+msgid "Professional"
+msgstr "弁理士弁護士"
+
+#: header-nav.php 36
+msgid "News"
+msgstr "ニュース"
+
+#: header-nav.php 37
+msgid "Academic"
+msgstr "書籍論説"
+
+#: header-nav.php 38
+msgid "Regulation"
+msgstr "法律規定"
+
+#: header-nav.php 39
+msgid "Contact"
+msgstr "連絡立群"
+
+#: footer.php 38
+msgid "Phone"
+msgstr "電話"
+
+#: footer.php 41
+msgid "Address"
+msgstr "アドレス"
+
+#: footer.php 41
+msgid "Century Avenue, Pudong, Shanghai, Shanghai World Financial Center, No. *** ** layer"
+msgstr "世紀大道、浦東​​、上海、上海環球金融中心号*** **層"
+
+#: footer.php 53
+msgid "National Toll Free Hotline"
+msgstr "国立フリーダイヤルホットライン"
+
+#: footer.php 41
+msgid "Shanghai Liqun Copyright Law Firm Shanghai ICP No. 13018228 -1"
+msgstr "上海立群著作権法律事務所上海ICP番号13018228-1"
+
+#: footer.php 66
+msgid "Site Map"
+msgstr "サイトマップ"
+
+#: footer.php 83
+msgid "Useful Links"
+msgstr "便利なリンク"
+
+#: contact.php 19
+msgid "Jobs"
+msgstr "ジョブズ"
+
+#: contact.php 44
+msgid "Email"
+msgstr "メール"
+
+#: contact.php 44
+msgid "Comments and feedback"
+msgstr "コメントとフィードバック"
+
+#: contact.php 52
+msgid "Verification"
+msgstr "確認コード"
+
+#: contact.php 55
+msgid "Submit"
+msgstr "提出する"
+
+#: about.php 52
+msgid "Introduction Of Firm"
+msgstr "事務所概要"
+
+#: about.php 52
+msgid "Philosophy Of Firm"
+msgstr "企業理念"
+
+#: single.php 52
+msgid "Published"
+msgstr "公開された"
+
+#: taxonomy.php 217
+msgid "Sorry, what you look don not exist!"
+msgstr "申し訳ありませんが、あなたが探している存在しません"
+
+#: index.php 217
+msgid "Firm News"
+msgstr "企業ニュース"
+
+#: index.php 217
+msgid "Industry News"
+msgstr "統計"
+
+#: index.php 217
+msgid "Patents"
+msgstr "特許"
+
+#: index.php 217
+msgid "Trademarks"
+msgstr "商標について"
+
+#: index.php 217
+msgid "Intellectual Property"
+msgstr "訴訟"
+
+#: index.php 217
+msgid "Litigation matters"
+msgstr "その他の知的財産事項"
+
+#: index.php 217
+msgid "All"
+msgstr "全体"
+
+#: index.php 217
+msgid "Print"
+msgstr "印刷"
+
+#: single.php 127
+msgid "Personalprint"
+msgstr "印刷の個人情報"
+
+#: footer.php 88
+msgid "State Intellectual Property Office"
+msgstr "知識産権局"
+
+#: footer.php 88
+msgid "State Administration for Industry and Commerce"
+msgstr "国家工商管理"
+
+#: footer.php 88
+msgid "Hong Kong Intellectual Property Department"
+msgstr "香港知识产权署"
+
+#: footer.php 88
+msgid "China Patent Agents Association"
+msgstr "香港知的財産部"
+
+#: footer.php 88
+msgid "NCAC"
+msgstr "NCAC"
+
+#: footer.php 88
+msgid "Supreme People's Court"
+msgstr "最高人民法院"
+
+#: footer.php 88
+msgid "World Intellectual Property Organization"
+msgstr "世界知的所有権機関"
+
+#: footer.php 88
+msgid "China IPR instruments mesh referee"
+msgstr "中国知的財産権の楽器は審判メッシュ"
+
+#: footer.php 88
+msgid "World's top five intellectual property offices (IP5) Website"
+msgstr "世界のトップ5知的財産事務所（IP5）ウェブサイト"
+
+#: footer.php 88
+msgid "Shanghai Intellectual Property Bureau"
+msgstr "上海市の知的所有権局"
+
+
+#contact.php 9
+msgid "Liqun Intellectual Property Office"
+msgstr "Liqun知的財産庁"

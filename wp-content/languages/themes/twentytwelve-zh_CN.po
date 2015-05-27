@@ -1,0 +1,327 @@
+# Copyright (C) 2013 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Twelve 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/twentytwelve\n"
+"POT-Creation-Date: 2013-08-01 18:14:14+00:00\n"
+"PO-Revision-Date: 2015-05-13 15:07+0800\n"
+"Last-Translator: Jimmy Xu <me@jimmyxu.org>\n"
+"Language-Team: WordPress China\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.6\n"
+
+#: header-nav.php 32
+msgid "Services"
+msgstr "服务"
+
+#: header-nav.php 33
+msgid "About Us"
+msgstr "关于我们"
+
+msgid "Products"
+msgstr "产品"
+
+msgid "Resource Center"
+msgstr "资源中心"
+
+msgid "Join Us"
+msgstr "加入我们"
+
+msgid "News"
+msgstr "新闻"
+
+msgid "Solution"
+msgstr "解决方案"
+
+#footer
+msgid "More"
+msgstr "更多"
+
+msgid "Subscribe"
+msgstr "关注我们"
+
+msgid "Talent strategy"
+msgstr "人才战略"
+
+msgid "Recruitment"
+msgstr "诚聘人才"
+
+msgid "Load more"
+msgstr "加载更多"
+
+msgid "Detailed"
+msgstr "了解详情"
+
+
+msgid "Insigma Hengtian Software Ltd"
+msgstr "网新恒天软件有限公司"
+
+msgid "Building J1, No.18 Xiyuan 1st Road, West Lake District, Hangzhou 310030, China"
+msgstr "浙江省杭州市西湖区西园一路18号J1写字楼"
+
+msgid "18F, Buynow Technology Building, NO.23 Jiaogong Road, West Lake District, Hangzhou 310013, China"
+msgstr "浙江省杭州市教工路23号百脑汇科技大厦18楼"
+
+msgid "US Office"
+msgstr "美国分部"
+
+msgid "15 Broad Street, Suite 710"
+msgstr "美国马萨渚塞州波士顿市布拉德大街15号710市"
+
+msgid "Zip"
+msgstr "邮编"
+
+msgid "Fax"
+msgstr "传真"
+
+msgid "Tel"
+msgstr "电话"
+
+msgid "Switchboard"
+msgstr "总机"
+
+msgid "Consultation"
+msgstr "业务咨询"
+
+msgid "Products And Services"
+msgstr "金融IT产品与服务"
+
+msgid "View All"
+msgstr "详细介绍"
+
+msgid "浙江网新恒天软件有限公司总裁兼首席执行官"
+msgstr "浙江网新恒天软件有限公司总裁兼首席执行官"
+
+msgid "浙大网新科技股份有限公司副总裁"
+msgstr "浙大网新科技股份有限公司副总裁"
+
+msgid "浙江网新恒天软件有限公司董事长"
+msgstr "浙江网新恒天软件有限公司董事长"
+
+msgid "美国道富银行前执行副总裁，亚太及拉丁美洲区执行总裁"
+msgstr "美国道富银行前执行副总裁，亚太及拉丁美洲区执行总裁"
+
+msgid "浙江网新恒天软件有限公司高级副总裁"
+msgstr "浙江网新恒天软件有限公司高级副总裁"
+
+msgid "浙江网新恒天软件有限公司副总裁兼人力资源总监"
+msgstr "浙江网新恒天软件有限公司副总裁兼人力资源总监"
+
+msgid "浙江网新恒天软件有限公司美国子公司常务董事"
+msgstr "浙江网新恒天软件有限公司美国子公司常务董事"
+
+msgid "浙江网新恒天软件有限公司首席创新官"
+msgstr "浙江网新恒天软件有限公司首席创新官"
+
+msgid "浙江网新恒天软件有限公司副总裁"
+msgstr "浙江网新恒天软件有限公司副总裁"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "Send mail"
+msgstr "发送邮件"
+
+msgid "China"
+msgstr "中国"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "America"
+msgstr "美国"
+
+msgid "Index"
+msgstr "首页"
+
+
+msgid "Search results"
+msgstr "搜索结果"
+
+msgid "Sorting method"
+msgstr "排序方式"
+
+msgid "News list"
+msgstr "新闻列表"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+=======
+msgid "Integrated search results"
+msgstr "综合搜索结果"
+
+msgid "All"
+msgstr "相关"
+
+msgid "Sort by"
+msgstr "排序方式"
+
+
+
